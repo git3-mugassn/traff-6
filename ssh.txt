@@ -1,0 +1,2 @@
+ssh -J host.mugassn.dpdns.org root@tx-traff-6
+password: 9xoOixd87X1101gA
